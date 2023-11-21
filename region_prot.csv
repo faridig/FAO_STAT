@@ -1,0 +1,9 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (FBS),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"FBS","Food Balances (2010-)","002","Africa","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","50.27","E","Estimated value"
+"FBS","Food Balances (2010-)","002","Africa","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","15.69","E","Estimated value"
+"FBS","Food Balances (2010-)","019","Americas","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","39.98","E","Estimated value"
+"FBS","Food Balances (2010-)","019","Americas","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","64.33","E","Estimated value"
+"FBS","Food Balances (2010-)","142","Asia","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","58.78","E","Estimated value"
+"FBS","Food Balances (2010-)","142","Asia","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","32.81","E","Estimated value"
+"FBS","Food Balances (2010-)","150","Europe","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","44.53","E","Estimated value"
+"FBS","Food Balances (2010-)","150","Europe","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","67.59","E","Estimated value"

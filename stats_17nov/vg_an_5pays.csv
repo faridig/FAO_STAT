@@ -1,0 +1,13 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (FBS),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"FBS","Food Balances (2010-)","140","Central African Republic","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","29.84","E","Estimated value"
+"FBS","Food Balances (2010-)","140","Central African Republic","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","19.56","E","Estimated value"
+"FBS","Food Balances (2010-)","178","Congo","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","25.72","E","Estimated value"
+"FBS","Food Balances (2010-)","178","Congo","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","29.54","E","Estimated value"
+"FBS","Food Balances (2010-)","231","Ethiopia","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","68.79","E","Estimated value"
+"FBS","Food Balances (2010-)","231","Ethiopia","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","7.16","E","Estimated value"
+"FBS","Food Balances (2010-)","276","Germany","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","36.81","E","Estimated value"
+"FBS","Food Balances (2010-)","276","Germany","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","73.73","E","Estimated value"
+"FBS","Food Balances (2010-)","566","Nigeria","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","51.83","E","Estimated value"
+"FBS","Food Balances (2010-)","566","Nigeria","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","7.26","E","Estimated value"
+"FBS","Food Balances (2010-)","729","Sudan","674","Protein supply quantity (g/capita/day)","S2903","Vegetal Products","2021","2021","g/cap/d","52.19","E","Estimated value"
+"FBS","Food Balances (2010-)","729","Sudan","674","Protein supply quantity (g/capita/day)","S2941","Animal Products","2021","2021","g/cap/d","20.17","E","Estimated value"
